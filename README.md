@@ -1,7 +1,7 @@
 # MovieLand
 
 ## Pesquisa de Filmes
-Este projeto é uma aplicação web simples que permite pesquisar e obter informações sobre filmes. Ele foi desenvolvido como parte do meu estudo de React e serve como uma introdução prática ao desenvolvimento de aplicações front-end usando essa biblioteca popular.
+Este projecto é uma aplicação web simples que permite pesquisar e obter informações sobre filmes. Ele foi desenvolvido como parte do meu estudo de React e serve como uma introdução prática ao desenvolvimento de aplicações front-end usando essa biblioteca popular.
 
 ## Funcionalidades
 <ul>
@@ -17,9 +17,9 @@ Este projeto é uma aplicação web simples que permite pesquisar e obter inform
 </ul>
 
 ## Pré-requisitos
-Antes de executar este projeto, verifique se você possui as seguintes dependências instaladas:
+Antes de executar este projecto, verifique se você possui as seguintes dependências instaladas:
 <ul>
-    <li>Node.js: <a>Instalação do Node.js</a></li>
+    <li>Node.js: <a href="#">Instalação do Node.js</a></li>
 </ul>
 
 ## Como Executar
